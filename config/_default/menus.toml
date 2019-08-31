@@ -9,18 +9,18 @@
   weight = 10
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Colloquium"
+  url = "#colloquia"
   weight = 20
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Workshops"
+  url = "#workshops"
   weight = 30
 
 [[main]]
-  name = "Publications"
-  url = "#featured"
+  name = "Sponsors"
+  url = "#sponsors"
   weight = 40
 
 [[main]]
