@@ -1,3 +1,6 @@
+This is a placeholder site for bcdata content. It is running a version of the
+[Academic Hugo Theme/system](https://sourcethemes.com/academic/)
+
 ```bash
 git clone https://github.com/bcdataca/website-landing
 git submodule update --init --recursive
