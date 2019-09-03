@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Connecting industry & academia
+role: Creating the Data Science Community for BC
 
 # Organizations/Affiliations
 organizations:
