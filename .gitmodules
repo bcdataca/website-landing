@@ -10,3 +10,6 @@
 [submodule "sites/colloquia/2017"]
 	path = sites/colloquia/2017
 	url = https://github.com/bcdataca/bcdata-src17
+[submodule "sites/colloquia/2019"]
+	path = sites/colloquia/2019
+	url = https://github.com/bcdataca/bcdata-src19

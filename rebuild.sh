@@ -9,7 +9,7 @@ COLOR_RED='\e[0;31m'
 ROOT_DIR=$(cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )
 SITES_DIR="${ROOT_DIR}/sites"
 
-SITES="sites/colloquia/2017 sites/colloquia/2018"
+SITES="sites/colloquia/2017 sites/colloquia/2018 sites/colloquia/2019"
 
 msg_exit() {
     printf "$COLOR_RED$@$COLOR_END"

@@ -19,6 +19,15 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = ""
+  company = "BCData Colloqium 2019"
+  company_url = "/2019/"
+  location = "Vancouver, BC"
+  date_start = "2019-10-26"
+  date_end = ""
+  description = ""
+
+[[experience]]
+  title = ""
   company = "BCData Colloqium 2018"
   company_url = "/2018/"
   location = "Vancouver, BC"
