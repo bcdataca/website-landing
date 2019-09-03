@@ -38,6 +38,24 @@ social:
 email: "info@bcdata.ca"
   
 ---
+The bcdata initiative is a collaborative effort to build a vibrant community
+intertwining people from government, industry, universities and not-for-profits
+toward three goals:
 
-The BCData activities at PIMS bring together industry experts and academics
-to work on data-science problems.
+1. Share knowledge and identify opportunities emerging from the data explosion
+1. Develop training experiences and career pathways for young mathematical
+scientists (mathematicians, statisticians, computer scientists) and support
+organizations in recruiting talent
+1. Forge long-term research and development partnerships to improve society and
+advance industry in British Columbia.
+
+The bcdata community meets monthly for the bcdata colloquium, a networking
+event with presentations on various data science topics.  The initiative also
+hosts problem solving workshops in the summer, where government, industry, and
+not-for-profit partners are invited to contribute challenge problems and
+collaborate with interdisciplinary teams of students and university
+researchers. The 2017 and 2018, workshops have catalyzed long-term research
+and development partnerships with our scientists [Avigilon (a Motorola
+Solutions Company)](http://avigilon.com/) and the [Pacific Institute for the
+Mathematical Sciences (PIMS)](https://www.pims.math.ca) are proud to sponsor
+the 2019-2020 bcdata colloquium series in Vancouver.
