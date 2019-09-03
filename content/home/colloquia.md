@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "BCData Colloquium 2019"
   company_url = "/2019/"
   location = "Vancouver, BC"
-  date_start = "2019-10-26"
+  date_start = "2019-09-26"
   date_end = ""
   description = ""
 
