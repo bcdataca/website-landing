@@ -5,10 +5,10 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: config/_default/content
-  label: Pages
+  path: content/colloquium/2019
+  label: 2019 Colloqium
   create: all
-  match: "*"
+  match: "**/*"
 upload_dir: config/_default/static/uploads
 public_path: "/uploads"
 front_matter_path: ''
