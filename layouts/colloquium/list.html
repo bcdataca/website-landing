@@ -1,0 +1,49 @@
+{{- define "main" -}}
+
+{{ partial "page_header.html" . }}
+
+<div class="universal-wrapper">
+  {{ with .Content }}
+  <div class="article-style" itemprop="articleBody">{{ . }}</div>
+  {{ end }}
+
+  <div class="row">
+    <div class="col-12 col-lg-12">
+    {{ $paginator := .Paginate .Data.Pages }}
+    {{ $exp_len := len $paginator.Pages }}
+    {{ range $idx, $v := $paginator.Pages }}
+      <div class="row experience">
+        <!-- Timeline -->
+        <div class="col-auto text-center flex-column d-none d-sm-flex">
+          <div class="row h-50">
+            <div class="col {{if gt $idx 0}}border-right{{end}}">&nbsp;</div>
+            <div class="col">&nbsp;</div>
+          </div>
+          <div class="m-2">
+            <span class="badge badge-pill border {{if gt .Date now}}exp-fill{{end}}">&nbsp;</span>
+          </div>
+          <div class="row h-50">
+            <div class="col {{if lt $idx (sub $exp_len 1)}}border-right{{end}}">&nbsp;</div>
+            <div class="col">&nbsp;</div>
+          </div>
+        </div>
+        <!-- Content -->
+        <div class="col py-2">
+          <div class="card">
+            <a href="{{ .RelPermalink }}"><div class="card-body">
+              <h4 class="card-title exp-title text-muted mt-0 mb-1">{{.Title | markdownify | emojify}}</h4>
+              <h4 class="card-title exp-company text-muted my-0">{{ .Params.author }}</h4>
+              <div class="text-muted exp-meta">
+                {{ .Date.Format "02 January 2006" }}
+              </div>
+            </div>
+            </a>
+          </div>
+        </div>
+      </div>
+    {{ end }}
+    </div>
+  {{ partial "pagination" . }}
+</div>
+
+{{- end -}}

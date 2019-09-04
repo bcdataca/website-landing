@@ -14,9 +14,12 @@ columns = "2"
 +++
 <div class="row">
 <div class="col-lg-4">
-    <a href="https://www.pims.math.ca"><img src="img/pims-logo.png" alt="Pacific Institute for the Mathematical Sciences" /></a>
+    <a href="https://www.pims.math.ca" target="_blank"><img src="img/pims-logo.png" alt="Pacific Institute for the Mathematical Sciences" /></a>
 </div>
 <div class="col-lg-4">
-    <a href="https://avigilon.com"><img src="img/avigilon-logo.png" alt="Avigilon" /></a>
+    <a href="http://avigilon.com" target="_blank"><img src="img/avigilon-logo.png" alt="Avigilon" /></a>
+</div>
+<div class="col-lg-4">
+    <a href="https://canssi.ca" target="_blank"><img src="img/canssi_logo1.jpg" alt="CANSSI" /></a>
 </div>
 </div>

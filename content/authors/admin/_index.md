@@ -29,8 +29,8 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:email@bcdata.ca".
-- icon: github
+  link: '#contact'  # For a direct email link, use "mailto:email@bcdata.ca".  
+- icon: github 
   icon_pack: fab
   link: https://github.com/bcdataca
 
@@ -58,6 +58,7 @@ researchers. The [2017](http://workshop.bcdata.ca/2017/) and
 [2018](http://workshop.bcdata.ca/2018/), workshops have catalyzed long-term
 research and development partnerships with our scientists.
 
-[Avigilon (a Motorola Solutions Company)](http://avigilon.com/) and the [Pacific
-Institute for the Mathematical Sciences (PIMS)](https://www.pims.math.ca) are
+[Avigilon (a Motorola Solutions Company)](http://avigilon.com/), the [Pacific
+Institute for the Mathematical Sciences (PIMS)](https://www.pims.math.ca) and
+the [Canadian Statistical Sciences Institute (CANSSI)](http://canssi.ca) are
 proud to sponsor the 2019-2020 bcdata colloquium series in Vancouver.

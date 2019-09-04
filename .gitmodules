@@ -4,12 +4,3 @@
 [submodule "themes/hugo-hikari-theme"]
 	path = themes/hugo-hikari-theme
 	url = https://github.com/digitalcraftsman/hugo-hikari-theme.git
-[submodule "sites/colloquia/2018"]
-	path = sites/colloquia/2018
-	url = https://github.com/bcdataca/bcdata-src18
-[submodule "sites/colloquia/2017"]
-	path = sites/colloquia/2017
-	url = https://github.com/bcdataca/bcdata-src17
-[submodule "sites/colloquia/2019"]
-	path = sites/colloquia/2019
-	url = https://github.com/bcdataca/bcdata-src19
