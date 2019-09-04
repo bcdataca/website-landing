@@ -22,6 +22,6 @@ columns = "2"
 </div>
 <div class="col-lg-1">&nbsp;</div>
 <div class="col-lg-3 sponsor">
-    <a href="https://canssi.ca" target="_blank"><img src="img/canssi_logo1.jpg" alt="CANSSI" /></a>
+    <a href="http://canssi.ca" target="_blank"><img src="img/canssi_logo1.jpg" alt="CANSSI" /></a>
 </div>
 </div>
