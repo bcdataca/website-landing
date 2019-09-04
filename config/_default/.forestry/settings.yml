@@ -5,8 +5,8 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: content/colloquium/2019
-  label: 2019 Colloqium
+  path: content/colloquium
+  label: Colloquium
   create: all
   match: "**/*"
 upload_dir: config/_default/static/uploads
