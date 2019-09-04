@@ -1,0 +1,11 @@
+div.sponsor {
+    width: auto;
+    max-height: 220px;
+    background: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+div.sponsor img {
+    margin: auto;
+}
