@@ -24,5 +24,3 @@ fields:
 - name: draft
   type: boolean
   label: Draft
-pages:
-- content/colloquium/a-new-event.md
