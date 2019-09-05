@@ -42,10 +42,10 @@ The bcdata initiative is a collaborative effort to build a vibrant community
 intertwining people from government, industry, universities and not-for-profits
 toward three goals:
 
-1. Share knowledge and identify opportunities emerging from the data explosion
+1. Share knowledge and identify opportunities emerging from the data explosion,
 1. Develop training experiences and career pathways for young mathematical
 scientists (mathematicians, statisticians, computer scientists) and support
-organizations in recruiting talent
+organizations in recruiting talent,
 1. Forge long-term research and development partnerships to improve society and
 advance industry in British Columbia.
 
@@ -61,4 +61,4 @@ research and development partnerships with our scientists.
 [Avigilon (a Motorola Solutions Company)](http://avigilon.com/), the [Pacific
 Institute for the Mathematical Sciences (PIMS)](https://www.pims.math.ca) and
 the [Canadian Statistical Sciences Institute (CANSSI)](http://canssi.ca) are
-proud to sponsor the 2019-2020 bcdata colloquium series in Vancouver.
+proud to sponsor the 2019-2020 bcdata colloquium series in Vancouver. Other sponsors are welcome to join.
