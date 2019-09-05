@@ -56,7 +56,7 @@ not-for-profit partners are invited to contribute challenge problems and
 collaborate with interdisciplinary teams of students and university
 researchers. The [2017](http://workshop.bcdata.ca/2017/) and
 [2018](http://workshop.bcdata.ca/2018/), workshops have catalyzed long-term
-research and development partnerships with our scientists.
+research and development partnerships within the bcdata community.
 
 [Avigilon (a Motorola Solutions Company)](http://avigilon.com/), the [Pacific
 Institute for the Mathematical Sciences (PIMS)](https://www.pims.math.ca) and
