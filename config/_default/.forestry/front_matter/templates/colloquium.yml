@@ -1,4 +1,26 @@
 ---
 label: Colloquium
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: speaker
+  type: text
+  config:
+    required: false
+  label: Speaker
+- name: date
+  type: datetime
+  label: Date
+  description: The date of the event
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+- name: draft
+  type: boolean
+  label: Draft
