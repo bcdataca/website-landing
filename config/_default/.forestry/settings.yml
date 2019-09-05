@@ -11,12 +11,20 @@ sections:
   label: Contact
   match: "**/*"
 - type: document
-  path: content/home/sponsors.md
-  label: Sponsors
-  match: "**/*"
-- type: document
   path: content/authors/admin/_index.md
   label: About
+  match: "**/*"
+- type: document
+  path: content/home/colloquia.md
+  label: Colloquium
+  match: "**/*"
+- type: document
+  path: content/home/workshops.md
+  label: Workshops
+  match: "**/*"
+- type: document
+  path: content/home/sponsors.md
+  label: Sponsors
   match: "**/*"
 - type: heading
   label: Events
