@@ -4,6 +4,8 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: heading
+  label: Front Page
 - type: document
   path: content/home/contact.md
   label: Contact
@@ -16,6 +18,8 @@ sections:
   path: content/authors/admin/_index.md
   label: About
   match: "**/*"
+- type: heading
+  label: Events
 - type: directory
   path: content/colloquium
   label: Colloquium
