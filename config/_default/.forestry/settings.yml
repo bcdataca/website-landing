@@ -4,6 +4,18 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: document
+  path: content/home/contact.md
+  label: Contact
+  match: "**/*"
+- type: document
+  path: content/home/sponsors.md
+  label: Sponsors
+  match: "**/*"
+- type: document
+  path: content/authors/admin/_index.md
+  label: About
+  match: "**/*"
 - type: directory
   path: content/colloquium
   label: Colloquium
