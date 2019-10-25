@@ -34,3 +34,8 @@ columns = "2"
    <a href="https://www.sauder.ubc.ca/" target="_blank"><img src="img/sauder-logo.jpg" alt="Sauder School of Business" /></a>
 </div>
 </div>
+<div class="row">&nbsp;</div>
+<div class="row">
+<div class="col-lg-5 sponsor">
+   <a href="https://callysto.ca" target="_blank"><img src="img/callysto-logo.png" alt="Callysto" /></a>
+</div>
