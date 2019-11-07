@@ -33,6 +33,9 @@ social:
 - icon: github 
   icon_pack: fab
   link: https://github.com/bcdataca
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/showcase/bcdata
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "info@bcdata.ca"
