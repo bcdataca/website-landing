@@ -27,7 +27,7 @@ columns = "2"
 <div class="row">&nbsp;</div>
 <div class="row">
 <div class="col-lg-5 sponsor">
-   <a href="https://iam.ubc.ca" target="_blank"><img src="img/iam-logo.png" alt="Institute of Applied Mathematics" /></a>
+   <a href="https://www.iam.ubc.ca/" target="_blank"><img src="img/iam-logo.png" alt="Institute of Applied Mathematics" /></a>
 </div>
 <div class="col-lg-1">&nbsp;</div>
 <div class="col-lg-5 sponsor">
