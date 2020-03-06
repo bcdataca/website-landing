@@ -15,7 +15,7 @@
 [context.branch-deploy]
   command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
 
-[redirects]
+[[redirects]]
   from = "/colloquium/2019/"
   to = "/colloquium/2019-2020/"
   status = 301
